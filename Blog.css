@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=poppinswght@700&display=swap');
+*
+{
+   margin: 0;
+   padding: 0;
+    box-sizi1
+   position: absolute;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+
+ }
+ ol
+ {
+   position: relative;
+   display: flex;
+   align-items: center;
+   gap: 200px;
+   background: #fff;
+   
+   
+
+  
+}
+ol span {
+   list-style: none;
+   
+
+
+}
+ol span a 
+{
+   position: relative;
+   text-decoration: none;
+   line-height: 1.5em;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #000000;
+   font-size: 25px;
+
+}
+   .img 
+   {
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 125px;
+      height: 125px;
+   }
+ 
+   
+  ol span a:hover
+    {
+     background-color: salmon;
+   }
+   h2
+   {
+      font-size: 40px;
+   }
+   h3
+   {
+      font size: 30px;
+   }
+   h5
+   {
+      font-size: 20px;
+   }
